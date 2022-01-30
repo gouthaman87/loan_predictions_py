@@ -1,6 +1,0 @@
-setup.py
-loan_py.egg-info/PKG-INFO
-loan_py.egg-info/SOURCES.txt
-loan_py.egg-info/dependency_links.txt
-loan_py.egg-info/requires.txt
-loan_py.egg-info/top_level.txt
